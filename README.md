@@ -6,7 +6,7 @@ Hosted Site: https://geekstervatsa.github.io/Project--media-query/
 This is the UI for a wider screen (laptop or tablet). It's simple recreation of the given ui.
 
 ## Tablet/small laptops/ mobile phones viewport
-|<img src="https://github.com/GeeksterVatsa/Project--media-query/assets/144803484/fe354948-03bb-4a6b-a062-f6453d81939c" width="100"> | <img src="https://github.com/GeeksterVatsa/Project--media-query/assets/144803484/56add5e3-57f2-438e-b510-a4a00f3f71b2" width="100" >|
+|<img src="https://github.com/GeeksterVatsa/Project--media-query/assets/144803484/fe354948-03bb-4a6b-a062-f6453d81939c" width="500"> | <img src="https://github.com/GeeksterVatsa/Project--media-query/assets/144803484/56add5e3-57f2-438e-b510-a4a00f3f71b2" width="500" >|
 
 
 
