@@ -125,7 +125,7 @@
         align-items: center;
         justify-content: center;
         margin-top: 10vh;
-        max-height: 80vh;
+        max-height: 100vh;
         /* gap: vh; */
     }
     .image img{
@@ -139,6 +139,9 @@
         flex-direction: column;
         gap: 1vh;
         margin-bottom: 24px;
+    }
+    .heading h1{
+        font-size: revert;
     }
 
 }
