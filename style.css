@@ -116,8 +116,8 @@
     font-family: Araboto-light;
     letter-spacing: 2px;
 }
-
-@media(max-width: 768px)
+/* For screens of smaller width, tab and mobiles  */
+@media only screen and (max-width: 768px)
 {
     .content{
         display: flex;
