@@ -6,7 +6,10 @@ Hosted Site: https://geekstervatsa.github.io/Project--media-query/
 This is the UI for a wider screen (laptop or tablet). It's simple recreation of the given ui.
 
 ## Tablet/small laptops/ mobile phones viewport
-![image](https://github.com/GeeksterVatsa/Project--media-query/assets/144803484/fe354948-03bb-4a6b-a062-f6453d81939c)
+| ![image](https://github.com/GeeksterVatsa/Project--media-query/assets/144803484/fe354948-03bb-4a6b-a062-f6453d81939c)  | ![image](https://github.com/GeeksterVatsa/Project--media-query/assets/144803484/56add5e3-57f2-438e-b510-a4a00f3f71b2) |
+
+
+
 Smaller viewports, following the rules of responsive design, we arrange the contents vertically to suit potraits orientation.
 
 Employing media, we set two different styles depending on the condition mentioned in the media query.
